@@ -1,0 +1,27 @@
+
+@media screen and (max-width:2400px){
+    iframe{
+        width: 90%;
+        
+    }
+}   
+    @media screen and (max-width:1800px){
+    iframe{
+        width: 90%;
+        
+    }
+}
+@media screen and (max-width:1080px){
+    iframe{
+        width: 90%;
+    }
+}
+@media screen and (max-width:680px){
+    iframe{
+        width: 90%;
+    }
+}
+iframe{
+    padding-right: 5%;
+    padding-left: 15%;
+}

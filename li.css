@@ -1,0 +1,29 @@
+img a{
+    padding-top: 10%;
+    padding-left: 10%;
+}
+li a {
+  
+    display: block;
+    color: rgb(173, 171, 171);
+    padding: 14px 16px;
+    text-decoration: none;
+
+  }
+  li a i {
+    margin-left: 5px;
+    font-size: 12px;
+  }
+  * li {
+    list-style: none;
+  }
+  a:active{
+    color: rgb(184, 184, 184);
+}
+ul{
+  display: flex;
+  padding-top: 5%;
+}
+a:hover{
+  color: rgb(255, 255, 255);
+}
